@@ -155,16 +155,6 @@ Performs exact inference in Bayesian networks by systematically eliminating vari
 
 **Time Complexity:** Depends on network structure and elimination order
 
-## 🖼️ Screenshots
-
-### HMM State Visualization
-![HMM States](docs/screenshots/hmm_states_placeholder.png)
-*Visualization of hidden state sequences identified by the Viterbi algorithm*
-
-### Bayesian Network Graph
-![Bayesian Network](docs/screenshots/bayesian_network_placeholder.png)
-*Robot navigation Bayesian network showing dependencies between variables*
-
 ## 🎓 Educational Context
 
 These implementations were developed as part of the **Artificial Intelligence** course at Sharif University of Technology, Computer Engineering Department (Fall 2024). The assignments focus on:
