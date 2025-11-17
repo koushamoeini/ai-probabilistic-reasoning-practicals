@@ -49,7 +49,7 @@ This repository contains educational implementations of key probabilistic infere
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-probabilistic-reasoning-practicals.git
+   git clone https://github.com/koushamoeini/ai-probabilistic-reasoning-practicals.git
    cd ai-probabilistic-reasoning-practicals
    ```
 
