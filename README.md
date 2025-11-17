@@ -174,39 +174,20 @@ These implementations were developed as part of the **Artificial Intelligence** 
 - Validating custom implementations against established libraries
 - Applying theoretical concepts to practical scenarios
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve the implementations or add new features:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
+   
+   koushamoeini
+   - Email: koushamoeini@gmail.com
+   - GitHub: [@koushamoeini](https://github.com/koushamoeini)
 
-**Kousha Moeini**
-- Student ID: 401100228
-- Institution: Sharif University of Technology
-- Course: Artificial Intelligence (Fall 2024)
-
-## 🙏 Acknowledgments
-
-- Prof. Parsa Sharifi - Course Instructor
-- `hmmlearn` library for reference implementations
-- Sharif University of Technology Computer Engineering Department
-
+   - 
 ## 📚 References
 
 - Rabiner, L. R. (1989). "A tutorial on hidden Markov models and selected applications in speech recognition"
 - Pearl, J. (1988). "Probabilistic Reasoning in Intelligent Systems"
 - Koller, D., & Friedman, N. (2009). "Probabilistic Graphical Models: Principles and Techniques"
-
----
-
-⭐ **If you find this repository helpful, please consider giving it a star!**
