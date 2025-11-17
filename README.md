@@ -169,13 +169,13 @@ These implementations were developed as part of the **Artificial Intelligence** 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## 👤 Author
    
    koushamoeini
    - Email: koushamoeini@gmail.com
    - GitHub: [@koushamoeini](https://github.com/koushamoeini)
 
-   - 
+---
 ## 📚 References
 
 - Rabiner, L. R. (1989). "A tutorial on hidden Markov models and selected applications in speech recognition"
